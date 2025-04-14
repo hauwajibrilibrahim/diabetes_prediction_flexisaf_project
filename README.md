@@ -32,6 +32,10 @@ It contains medical measurements from women of Pima Indian heritage, including:
 - Logistic Regression Classifier
 
 ---
+## 🧠 Problem Statement
+Diabetes is one of the most common chronic diseases worldwide, often developing silently until serious complications arise. In many cases, early signs of diabetes go unnoticed due to limited access to routine health screenings, especially in resource-constrained environments. This leads to delayed diagnosis, expensive medical treatments, and an increased risk of long-term health issues such as kidney failure, vision loss, and cardiovascular disease.
+
+This project aims to address this problem by creating a machine learning-based predictive model that uses basic health indicators — such as glucose level, BMI, age, and insulin levels — to predict the likelihood of diabetes. By offering a simple and accessible prediction tool, this project supports early detection and encourages timely medical consultation, potentially reducing healthcare costs and improving patient outcomes.
 
 ## 🚀 Getting Started
 
