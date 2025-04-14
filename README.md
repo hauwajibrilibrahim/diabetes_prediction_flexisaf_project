@@ -65,7 +65,7 @@ python diabetes_model.py
 --- Diabetes Prediction ---
 Enter number of pregnancies: 3
 Enter glucose level: 120
-Enter blood pressure: 70
+Enter diastolic blood pressure: 70
 Enter skin thickness: 22
 Enter insulin level: 85
 Enter BMI: 24.5
