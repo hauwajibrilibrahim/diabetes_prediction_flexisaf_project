@@ -37,7 +37,7 @@ It contains medical measurements from women of Pima Indian heritage, including:
 
 ### 1️⃣ Clone this repository:
 ```bash
-git clone https://github.com/hauwajibrilibrahim/Flexisaf-GAIDS/tree/main/diabetes_prediction
+git clone https://github.com/hauwajibrilibrahim/diabetes_prediction_flexisaf_project
 cd diabetes-prediction
 ```
 
